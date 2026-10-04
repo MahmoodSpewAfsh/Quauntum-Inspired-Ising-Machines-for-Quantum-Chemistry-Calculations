@@ -112,7 +112,7 @@ B. QUANTUM CHEMISTRY HELPER FUNCTIONS
    - Ref: https://github.com/jcopenh/Quantum-Chemistry-with-Annealers.git
    - Usage: Functions for Pauli operator construction and molecular geometry.
 
-C. CAC ALGORITHM (Coherent Ising Machine)
+C. CIM Variants
    - Reference: "Coherent Ising machines with optical error correction circuits"
    - Link: https://onlinelibrary.wiley.com/doi/full/10.1002/qute.202100077
 
